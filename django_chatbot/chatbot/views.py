@@ -8,7 +8,7 @@ from .models import Chat
 from django.utils import timezone
 
 
-GOOGLE_API_KEY='AIzaSyBHcg-rJ02rEpkv1KE3kVU79eHUqpjp6d8'
+GOOGLE_API_KEY='Enter Your Key'
  
 genai.configure(api_key=GOOGLE_API_KEY)
 
